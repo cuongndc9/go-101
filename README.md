@@ -7,6 +7,6 @@ Be a Gopher
 - https://go.dev/talks/2013/bestpractices.slide#
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦖
+Action beats perfection.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
