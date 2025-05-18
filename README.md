@@ -6,7 +6,4 @@ Be a Gopher
 
 - https://go.dev/talks/2013/bestpractices.slide#
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦖
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nBe a lifelong learner, not a know-it-all.\n🧑‍💻\n<!-- INSPIRATIONAL_QUOTE_END -->
